@@ -23,7 +23,12 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333; }
+  background-color: #333;
+  background-image: url("/images/coverpage.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
 
 body {
   display: -ms-flexbox;
@@ -64,7 +69,8 @@ body {
 
 @media (min-width: 48em) {
   .masthead-brand {
-    float: left; }
+    float: left;
+    font-size: 50px; }
   .nav-masthead {
     float: right; } }
 
