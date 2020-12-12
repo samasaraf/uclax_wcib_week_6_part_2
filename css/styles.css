@@ -4,7 +4,8 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a; }
+  color: #5a5a5a;
+  background-color: #71b172; }
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -75,8 +76,8 @@ body {
 
 .btn-secondary {
   color: #faf8f8;
-  background-color: var(--indigo);
-  border-color: var(--indigo); }
+  background-color: var(--blue);
+  border-color: var(--blue); }
 
 .navbar-brand {
   display: inline-block;
