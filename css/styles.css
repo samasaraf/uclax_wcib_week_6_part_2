@@ -87,3 +87,6 @@ body {
   font-size: 2.25rem;
   line-height: inherit;
   white-space: nowrap; }
+
+.fact {
+  width: 450px; }
